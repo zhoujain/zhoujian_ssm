@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [27/Aug/2019:14:34:38 +0800] "GET /zhoujian_ssm_web/user/findAll.do HTTP/1.1" 200 24712 http-bio-8888-exec-1 1766
+0:0:0:0:0:0:0:1 - - [27/Aug/2019:14:36:49 +0800] "GET /zhoujian_ssm_web/user/findAll.do HTTP/1.1" 200 24712 http-bio-8888-exec-4 324
+0:0:0:0:0:0:0:1 - - [27/Aug/2019:14:37:57 +0800] "GET /zhoujian_ssm_web/user/findAll.do HTTP/1.1" 200 24712 http-bio-8888-exec-7 132
+0:0:0:0:0:0:0:1 - - [27/Aug/2019:14:41:02 +0800] "GET /zhoujian_ssm_web/user/findAll.do HTTP/1.1" 200 24711 http-bio-8888-exec-10 138
+0:0:0:0:0:0:0:1 - - [27/Aug/2019:14:42:53 +0800] "POST /zhoujian_ssm_web/user/deleteAll.do HTTP/1.1" 200 14 http-bio-8888-exec-2 106659
+0:0:0:0:0:0:0:1 - - [27/Aug/2019:14:42:58 +0800] "GET /zhoujian_ssm_web/user/findAll.do HTTP/1.1" 200 22716 http-bio-8888-exec-3 10
